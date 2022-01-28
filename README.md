@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying <em> Masters in Analytics <em> at the Georgia Institute of Technology
+- 🔭 I’m currently studying <em> Masters in Analytics </em> at the Georgia Institute of Technology
 
 
 
