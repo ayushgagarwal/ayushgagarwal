@@ -3,13 +3,11 @@
 - I’m currently studying <strong> Masters of Science in Analytics </strong> at the Georgia Institute of Technology.
 - I'm a <strong> Graduate Teaching Assistant </strong> for the course - Computing for Data Analysis that deals with Data Science using Python.
 
-My passion for Data Science began during my undergrad Computer Science degree, when I took subjects like Database Management Systems, Data Structures and Data Warehouse & Mining. My curiosity in these areas naturally led me to Data Science. Also, the extensive use of Statistics and Business impact made it the perfect fit for me.
+My passion for Data Science began during my undergrad Computer Science degree, when I took subjects like Database Management Systems, Data Structures and Data Warehouse & Mining. My curiosity in these areas naturally led me to Data Science. On finding out the extensive use of Math, Statistics and the impact this was creating, I knew it was the perfect fit for me.
 
-I aspire to learn and add value at the same time!
+I hope my repositories help you out in your learning journey as well.
 
-This gives a brief overview of the kind of projects I have done!
-
-If you would like to know more, please don't hesitate to reach out to me on <a href="https://www.linkedin.com/in/ayushgagarwal/"> Linkedin </a> or Email me at ayushgagarwal@gmail.com
+If you would like to know more, please don't hesitate to reach out to me on <a href="https://www.linkedin.com/in/ayushgagarwal/"> Linkedin </a> or email me at ayushgagarwal@gmail.com
 
 <!--
 **ayushgagarwal/ayushgagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
