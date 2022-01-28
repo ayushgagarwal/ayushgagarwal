@@ -5,8 +5,6 @@
 
 My passion for Data Science began during my undergrad Computer Science degree, when I took subjects like Database Management Systems, Data Structures and Data Warehouse & Mining. My curiosity in these areas naturally led me to Data Science. On finding out the extensive use of Math, Statistics and the impact this was creating, I knew it was the perfect fit for me.
 
-I want to do projects to expand my skillset and create even more impact!
-
 I hope my repositories help you out in your learning journey as well 😄
 
 If you want to have a chat, please don't hesitate to reach out to me on <a href="https://www.linkedin.com/in/ayushgagarwal/"> LinkedIn </a> or email me at ayushgagarwal@gmail.com
