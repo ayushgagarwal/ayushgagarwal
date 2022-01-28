@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey, I am Ayush! 👋
 
-- 🔭 I’m currently studying <em> Masters in Analytics </em> at the Georgia Institute of Technology
-
+- I’m currently studying <strong> Masters in Analytics </strong> at the Georgia Institute of Technology.
+- I'm a <strong> Graduate Teaching Assistant </strong> for the Computing for Data Analysis course that deals with Data Science using Python.
 
 
 <!--
