@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying Masters in Analytics at the Georgia Institute of Technology
+
+
+
 <!--
 **ayushgagarwal/ayushgagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
