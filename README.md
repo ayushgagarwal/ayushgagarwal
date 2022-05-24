@@ -1,12 +1,12 @@
 ### Hey, I am Ayush! 👋
 
 - I’m currently pursuing a <strong> Masters of Science in Analytics </strong> 👨‍🎓 from the Georgia Institute of Technology.
-- I'm a <strong> Graduate Teaching Assistant </strong> for the course - Computing for Data Analysis that deals with Data Science using Python.
+- I was a <strong> Graduate Teaching Assistant </strong> for the course - Computing for Data Analysis that deals with Data Science using Python.
 
 My passion for Data Science began during my undergrad Computer Science degree, when I took subjects like Database Management Systems, Data Structures and Data Warehouse & Mining. My curiosity in these areas naturally led me to Data Science. On finding out the extensive use of Math, Statistics and the impact this was creating, I knew it was the perfect fit for me.
 
 My skills include...
-- Programming/Frameworks: Python, R, SQL, Scala, PySpark
+- Programming/Frameworks: Python, R, SQL, Scala, PySpark, Databricks
 - Data Visualization: Tableau, Google Data Studio, D3.js, gglplot, PowerBI
 - Analytical Techniques: Machine Learning, Regression Analysis, Classification, Clustering, Random Forests, Time Series
 - Cloud: AWS (cloud practitioner certification), Google Cloud Platform, Microsoft Azure
