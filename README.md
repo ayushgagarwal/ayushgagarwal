@@ -1,6 +1,7 @@
 ### Hey, I am Ayush! 👋
 
-- I’m currently pursuing a <strong> Masters of Science in Analytics </strong> 👨‍🎓 from the Georgia Institute of Technology.
+- I'm currently working as a <strong> Data Analyst at JPMorgan Chase & Co. </strong>
+- I have a <strong> Masters of Science in Analytics </strong> 👨‍🎓 from the Georgia Institute of Technology.
 - I was a <strong> Graduate Teaching Assistant </strong> for the course - Computing for Data Analysis that deals with Data Science using Python.
 
 My passion for Data Science began during my undergrad Computer Science degree, when I took subjects like Database Management Systems, Data Structures and Data Warehouse & Mining. My curiosity in these areas naturally led me to Data Science. On finding out the extensive use of Math, Statistics and the impact this was creating, I knew it was the perfect fit for me.
